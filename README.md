@@ -1,5 +1,5 @@
 # FestiFact-Applicatie
-# Avans Hogeschool, DH11BIMA1.
+@Avans Hogeschool (DH11BIMA1).
 
 Deze repository dient de FestiFact Applicatie zoals hierboven benoemd. 
 Het is een gezamelijk software-project in opdracht van Avans Hogeschool te Breda welke gemaakt is door klas DH11BIM groep A1.
