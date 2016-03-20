@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{581633EB-B896-402F-8E60-36F3DA191C85}") = "FestiFacts Applicatie", "FestiFacts Applicatie\FestiFacts Applicatie.lsxtproj", "{93DAC632-8B18-4487-8C27-68056125BFB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FestiFacts Applicatie.Server", "FestiFacts Applicatie\FestiFacts Applicatie.Server\FestiFacts Applicatie.Server.csproj", "{CE49E6BC-C04D-4857-8D28-DD01D4E97080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FestiFacts Applicatie.DesktopClient", "FestiFacts Applicatie\FestiFacts Applicatie.DesktopClient\FestiFacts Applicatie.DesktopClient.csproj", "{23A9E41A-69A1-4B96-945E-A08D8B1F70BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93DAC632-8B18-4487-8C27-68056125BFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93DAC632-8B18-4487-8C27-68056125BFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93DAC632-8B18-4487-8C27-68056125BFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93DAC632-8B18-4487-8C27-68056125BFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE49E6BC-C04D-4857-8D28-DD01D4E97080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE49E6BC-C04D-4857-8D28-DD01D4E97080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE49E6BC-C04D-4857-8D28-DD01D4E97080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE49E6BC-C04D-4857-8D28-DD01D4E97080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A9E41A-69A1-4B96-945E-A08D8B1F70BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A9E41A-69A1-4B96-945E-A08D8B1F70BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A9E41A-69A1-4B96-945E-A08D8B1F70BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A9E41A-69A1-4B96-945E-A08D8B1F70BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
